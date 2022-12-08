@@ -14,5 +14,5 @@
 ## License
 * [MIT](https://choosealicense.com/licenses/mit/)
 
-! [Proje Resmi](https://picsum.photos/id/237/200/300)
+![Proje Resmi](https://picsum.photos/id/237/200/300)
 
